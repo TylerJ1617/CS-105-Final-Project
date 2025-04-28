@@ -34,7 +34,7 @@ Clearview Regional Highschool Graduate
 #### JDoodle Personality Test
 
  - This JDoodle project uses loops to cycle through 10 questions and 30 responses as well as if statements to prevent errors as well as decide three different personality types.
- - [insert project 2 screenshot here]
+ - 
  - I needed to code a test that is able to use answers to questions to categorize individuals with a personality type.
  I used JDoodle.
  I struggled to get the questions to loop as well as display different answers after each question, however I was able to separate the strings into one question and three answers to make it more organized.
