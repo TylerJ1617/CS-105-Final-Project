@@ -21,7 +21,7 @@ Clearview Regional Highschool Graduate
 
 #### Microsoft Access Transcripts
  - This Microsoft Access project required me to make two tables of data and connect them using relationships and using these relationships to create reports that produce grade transcripts for students.
- - [insert project 1 screenshot here]
+ - 
  - I needed to make an easy way to manage multiple students using two tables of data and making reports based on this data.
  I used Microsoft Access through Apporto
  I struggled creating the reports as I had forgotten to make the grades a numerical value so it would not display, I then realized this mistake and corrected it.
